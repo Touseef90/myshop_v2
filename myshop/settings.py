@@ -132,5 +132,5 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 CART_SESSION_ID = 'cart'
 
 # django-paypal settings
-PAYPAL_RECEIVER_EMAIL = 'touseef.ghazanfar@gmail.com'
+PAYPAL_RECEIVER_EMAIL = 'touseef.ghazanfar-facilitator@gmail.com'
 PAYPAL_TEST = True
